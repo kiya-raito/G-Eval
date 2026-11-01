@@ -1,0 +1,13 @@
+documents/
+
+# Generated artifacts and local environments
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+.deepeval/
+repomix-output.xml
+*.scored.tsv
+ollama.log
+.env
+.env.local

@@ -1,0 +1,4 @@
+input_column	actual_output_column	expected_output_column
+架空の町リノの花は何色ですか。	青色です。	青色です。
+架空の町リノの花は何色ですか。	赤色です。	青色です。
+架空の町リノの花は何色ですか。		青色です。

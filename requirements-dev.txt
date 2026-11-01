@@ -1,0 +1,4 @@
+-r requirements.txt
+nbformat==5.11.1
+ipython==9.18.0
+pytest==9.2.0
